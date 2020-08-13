@@ -6,4 +6,4 @@ Reed's portfolio
 * Created scalable preprocessing methods using pipelines
 * Opitimized Linear, Lasso, Ridge regression, XGBoost, using GridsearchCV
 
-[image](https://github.com/radarreed/Portfolio/blob/master/images/structure_year_blend.png)
+![](https://github.com/radarreed/Portfolio/blob/master/images/structure_year_blend.png)
