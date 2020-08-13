@@ -1,5 +1,4 @@
-# Portfolio
-Reed's portfolio
+# Reed's Portfolio
 
 # [Machine learning in python with housing data: Project Overview](https://github.com/radarreed/Machine_Learning_housing_data/blob/master/Structure_Linear.ipynb)
 * Predicted land and structural values
