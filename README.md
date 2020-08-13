@@ -1,4 +1,4 @@
-# Overview of Projects
+# Overview of Projects:
 
 # [Machine learning in python with housing data](https://github.com/radarreed/Machine_Learning_housing_data/blob/master/Structure_Linear.ipynb)
 * Predicted land and structural values
