@@ -7,4 +7,4 @@
 * Custom Transformer for cardinality reduction
 * Automatic collinearity reduction
 
-![](https://github.com/radarreed/Portfolio/blob/master/images/structure_year_blend.png)
+![](/images/structure_year_blend.png)
