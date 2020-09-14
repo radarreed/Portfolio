@@ -7,3 +7,11 @@
 * Automatic collinearity reduction
 
 ![](/images/structure_year_blend.png)
+
+# [Automating excel data prep in Python: International Coffee Organization]
+(https://github.com/radarreed/Automating_excel_data_prep/blob/master/Automating_excel_tasks.ipynb)
+* Automated the steps to normalize an excel report into the third normal form of data
+* Includes check digits which caught a footing error in the source data
+* Downloads files from url, performs transformation steps, and saves files in a local drive
+* Packages include pandas, numpy, list comprehensions and regular expressions
+
