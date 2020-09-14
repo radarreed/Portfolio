@@ -12,6 +12,6 @@
 * Automated the steps to normalize an excel report into the third normal form of data
 * Includes check digits which caught a footing error in the source data
 * Downloads files from url, performs transformation steps, and saves files in a local drive
-* Packages include pandas, numpy, list comprehensions and regular expressions
+* Includes pandas, numpy, list comprehensions and regular expressions
 
 ![](/images/coffee-beans.jpg)
