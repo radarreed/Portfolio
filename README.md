@@ -14,4 +14,4 @@
 * Downloads files from url, performs transformation steps, and saves files in a local drive
 * Packages include pandas, numpy, list comprehensions and regular expressions
 
-![](/images/coffee-beans-4581628_1920.jpg)
+![](/images/coffee-beans.jpg)
