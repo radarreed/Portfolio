@@ -20,6 +20,6 @@
 * A scalable approach to forecasting and trend decomposition
 * This project cleans and merges two data sources together using pandas
 * Features cross validated approach to hyperparameter optimization
-* Prophet was developed and open-sourced by facebook
+* Offers every finance department an improved approach to forecasting
 
 ![](/images/prophet.png)
