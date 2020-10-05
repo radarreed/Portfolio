@@ -15,3 +15,11 @@
 * Includes pandas, numpy, list comprehensions and regular expressions
 
 ![](/images/coffee-beans.jpg)
+
+# [Mass forecasting with Prophet](https://github.com/radarreed/Forecasting-with-FB-Prophet/blob/main/Prophet_forecasting.ipynb)
+* A scalable approach to forecasting and trend decomposition
+* This project cleans and merges two data sources together using pandas
+* Features cross validated approach to hyperparameter optimization
+* Prophet was developed and open-sourced by facebook
+
+![](/images/prophet.png)
