@@ -1,5 +1,5 @@
 # Overview of Projects:
-(click on the blue headings to view. If the page doesn't load properly, refresh)
+(click on the blue headings to view. If the page doesn't load properly, click reload)
 
 # [Machine learning with python using zillow housing data: XGBoost](https://github.com/radarreed/XGBoost-with-housing-data/blob/main/combinedXGBoost.ipynb)
 * Created scalable preprocessing methods using pipelines in Scikit Learn
