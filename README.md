@@ -1,8 +1,15 @@
 # Overview of Projects:
 
-# [Machine learning with python using zillow housing data: Predicting Structure Values](https://github.com/radarreed/Machine_Learning_housing_data/blob/master/Structure_Linear.ipynb)
+# [Machine learning with python using zillow housing data: XGBoost]
+(https://github.com/radarreed/Machine_Learning_housing_data/blob/master/combinedXGBoost.ipynb)
 * Created scalable preprocessing methods using pipelines in Scikit Learn
-* Opitimized Linear, Lasso, Ridge regression, XGBoost, using GridsearchCV
+* Uses unsupervised learning in cardinality reduction
+* Features SHAP values to convey variable importance in an opaque such as XGBoost
+* In depth variance analysis for over and underestimates
+
+# [Machine learning with python using zillow housing data: Linear models](https://github.com/radarreed/Machine_Learning_housing_data/blob/master/Structure_Linear.ipynb)
+* Created scalable preprocessing methods using pipelines in Scikit Learn
+* Opitimized Linear, Lasso, Ridge regression, using GridsearchCV
 * Custom transformer for cardinality reduction
 * Automatic collinearity reduction
 
