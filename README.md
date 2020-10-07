@@ -1,10 +1,12 @@
 # Overview of Projects:
 
-# [Machine learning with python using zillow housing data: XGBoost](https://github.com/radarreed/Machine_Learning_housing_data/blob/master/combinedXGBoost.ipynb)
+# [Machine learning with python using zillow housing data: XGBoost](https://github.com/radarreed/XGBoost-with-housing-data/blob/main/combinedXGBoost.ipynb)
 * Created scalable preprocessing methods using pipelines in Scikit Learn
 * Uses unsupervised learning in cardinality reduction
 * Features SHAP values to convey variable importance in an opaque such as XGBoost
 * In depth variance analysis for over and underestimates
+
+![](/images/SHAP.JPG.png)
 
 # [Machine learning with python using zillow housing data: Linear models](https://github.com/radarreed/Machine_Learning_housing_data/blob/master/Structure_Linear.ipynb)
 * Created scalable preprocessing methods using pipelines in Scikit Learn
