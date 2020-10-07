@@ -31,4 +31,4 @@
 * Features cross validated approach to hyperparameter optimization
 * Offers every finance department an improved approach to forecasting
 
-![](/images/prophet.png)
+![](/images/prophetgraph.png)
