@@ -6,7 +6,7 @@
 * Features SHAP values to convey variable importance in an opaque such as XGBoost
 * In depth variance analysis for over and underestimates
 
-![](/images/SHAP.JPG.png)
+![](/images/SHAP.JPG)
 
 # [Machine learning with python using zillow housing data: Linear models](https://github.com/radarreed/Machine_Learning_housing_data/blob/master/Structure_Linear.ipynb)
 * Created scalable preprocessing methods using pipelines in Scikit Learn
