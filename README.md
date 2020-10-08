@@ -1,14 +1,6 @@
 # Overview of Projects:
 (click on the blue headings to view. If the page doesn't load properly, click reload)
 
-# [Automating excel data prep in Python: International Coffee Organization](https://github.com/radarreed/Automating_excel_data_prep/blob/master/Automating_excel_tasks.ipynb)
-* Automated the steps to normalize an excel report into the third normal form of data
-* Includes check digits which caught a footing error in the source data
-* Downloads files from url, performs transformation steps, and saves files in a local drive
-* Includes pandas, numpy, list comprehensions and regular expressions
-
-![](/images/coffee-beans.jpg)
-
 # [Mass forecasting with Prophet](https://github.com/radarreed/Forecasting-with-FB-Prophet/blob/main/Prophet_forecasting.ipynb)
 * A scalable approach to forecasting and trend decomposition
 * This project cleans and merges two data sources together using pandas
@@ -16,6 +8,14 @@
 * Offers every finance department an improved approach to forecasting
 
 ![](/images/prophetgraph.JPG)
+
+# [Automating excel data prep in Python: International Coffee Organization](https://github.com/radarreed/Automating_excel_data_prep/blob/master/Automating_excel_tasks.ipynb)
+* Automated the steps to normalize an excel report into the third normal form of data
+* Includes check digits which caught a footing error in the source data
+* Downloads files from url, performs transformation steps, and saves files in a local drive
+* Includes pandas, numpy, list comprehensions and regular expressions
+
+![](/images/coffee-beans.jpg)
 
 # [Machine learning with python using Zillow housing data: XGBoost](https://github.com/radarreed/XGBoost-with-housing-data/blob/main/combinedXGBoost.ipynb)
 * Created scalable preprocessing methods using pipelines in Scikit Learn
