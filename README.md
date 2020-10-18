@@ -15,7 +15,7 @@
 * Downloads files from url, performs transformation steps, and saves files in a local drive
 * Includes pandas, numpy, list comprehensions and regular expressions
 
-![](/images/tableau_prep.jpg)
+![](/images/Tableau_prep.jpg)
 
 # [Machine learning with python using Zillow housing data: XGBoost](https://github.com/radarreed/XGBoost-with-housing-data/blob/main/combinedXGBoost.ipynb)
 * Created scalable preprocessing methods using pipelines in Scikit Learn
