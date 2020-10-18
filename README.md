@@ -37,4 +37,5 @@
 * Mass produces custom spreadsheets (formulas, formatting, graphs, everything!)
 * Can connect to any data source 
 * Doesn't skip data ranges with no activity by adding missing indexes
+
 ![](/images/openpyxl.png)
