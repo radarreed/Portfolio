@@ -36,7 +36,7 @@
 # [Automating excel with Openpyxl](https://github.com/radarreed/Automate_excel_with_openpyxl/blob/main/reports.ipynb)
 * Mass produces custom spreadsheets (formulas, formatting, graphs, everything!)
 * Can connect to any data source 
-* Doesn't skip data ranges with no activity in the period by adding missing indexes
+* Doesn't skip date ranges with no activity in the period by adding missing indexes
 * See the resulting excel file in the respository folder for this project
 
 ![](/images/openpyxl.png)
