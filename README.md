@@ -46,4 +46,4 @@
 * Used for a database for future statistical analysis projects
 * Parses html source code using the python package, Beautiful Soup
 
-![](/images/basketballl.jpg)
+![](/images/basketball.jpg)
