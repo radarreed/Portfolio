@@ -41,8 +41,9 @@
 
 ![](/images/openpyxl.png)
 
-#[Web Scraping from Basketball-Reference.com](https://github.com/radarreed/Basketball-reference.com_web_scraper/blob/main/nbascrape-iter.ipynb)
+# [Web Scraping from Basketball-Reference.com](https://github.com/radarreed/Basketball-reference.com_web_scraper/blob/main/nbascrape-iter.ipynb)
 * Gathers hundreds of thousands of NBA and pre-NBA game stats for players drafted into the NBA
 * Used for a database for future statistical analysis projects
+* Parses html source code using the python package, Beautiful Soup
 
-![](/images/basketball.png)
+![](/images/basketball.jpg)
