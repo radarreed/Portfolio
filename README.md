@@ -40,3 +40,9 @@
 * See the resulting excel file in the respository folder for this project
 
 ![](/images/openpyxl.png)
+
+#[Web Scraping from Basketball-Reference.com](https://github.com/radarreed/Basketball-reference.com_web_scraper/blob/main/nbascrape-iter.ipynb)
+* Gathers hundreds of thousands of NBA and pre-NBA game stats for players drafted into the NBA
+* Used for a database for future statistical analysis projects
+
+![](/images/basketball.png)
