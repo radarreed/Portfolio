@@ -46,4 +46,4 @@
 * Used for a database for future statistical analysis projects
 * Parses html source code using the python package, Beautiful Soup
 
-![](/images/basketball.jpg)
+![](/images/basketball.jpg)(https://github.com/radarreed/Basketball-reference.com_web_scraper/blob/main/nbascrape-iter.ipynb)
