@@ -45,5 +45,6 @@
 * Gathers hundreds of thousands of NBA and pre-NBA game stats for players drafted into the NBA
 * Used for a database for future statistical analysis projects
 * Parses html source code using the python package, Beautiful Soup
+* I made the resulting datasets publicly available at https://www.kaggle.com/reedthomas/nba-intl-and-ncaa-game-logs-for-20032020-drafts
 
 ![](/images/basketball.jpg)
