@@ -1,7 +1,7 @@
 # Overview of Projects:
 (click on the blue headings to view. If the page doesn't load properly, click reload)
 
-# [Statistical analysis: 3 point shooting](https://github.com/radarreed/Drafting_3_point_shooters/blob/main/three_pt_analysis.ipynb)
+# [Statistical analysis: How 3 point shooting translates to the NBA](https://github.com/radarreed/Drafting_3_point_shooters/blob/main/three_pt_analysis.ipynb)
 * Assesses the relationship between NBA player's 3 point shooting ability before and after entering the NBA
 * Uses a paired t-test and a 95% confidence interval to validate the difference in mean values.
 * Uses multiple linear regression to determine which statistics are most likely to signal a future successful NBA shooter.
