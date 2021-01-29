@@ -7,7 +7,7 @@
 * Uses multiple linear regression to determine which statistics are most likely to signal a future successful NBA shooter.
 * Aggregates and merges the data tables produced from the Web Scraping from Basketball-Reference.com project
 
-![](/images/hist.png)
+![](/images/translation.png)
 
 # [Mass forecasting with Prophet](https://github.com/radarreed/Forecasting-with-FB-Prophet/blob/main/Prophet_forecasting.ipynb)
 * A scalable approach to forecasting and trend decomposition
