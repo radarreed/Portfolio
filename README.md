@@ -1,13 +1,13 @@
 # Overview of Projects:
 (click on the blue headings to view. If the page doesn't load properly, click reload)
 
-# [statistical analysis: 3 point shooting] (https://github.com/radarreed/Drafting_3_point_shooters/blob/main/three_pt_analysis.ipynb)
+# [statistical analysis: 3 point shooting](https://github.com/radarreed/Drafting_3_point_shooters/blob/main/three_pt_analysis.ipynb)
 * Assesses the relationship between NBA player's 3 point shooting ability before and after entering the NBA
 * Uses a paired t-test and a 95% confidence interval to validate the difference in mean values.
 * Uses multiple linear regression to determine which statistics are most likely to signal a future successful NBA shooter.
 * Aggregates and merges the data tables produced from the Web Scraping from Basketball-Reference.com project
 
-![](/images/3pt.JPG)
+![](/images/hist.png)
 
 # [Mass forecasting with Prophet](https://github.com/radarreed/Forecasting-with-FB-Prophet/blob/main/Prophet_forecasting.ipynb)
 * A scalable approach to forecasting and trend decomposition
